@@ -46,6 +46,7 @@ export function activate(context: vscode.ExtensionContext) {
 
 			const memory = status.getMemory();
 			if (!memory) {
+				item.hide();
 				return;
 			}
 			
