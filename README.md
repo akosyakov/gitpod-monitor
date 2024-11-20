@@ -1,6 +1,6 @@
-# Resource monitor for Gitpod workspaces
+# Resource monitor for Gitpod Classic workspaces
 
-Real-time system resource monitoring for your [Gitpod](https://www.gitpod.io/) workspaces, right in your VS Code status bar.
+Real-time system resource monitoring for your [Gitpod Classic](https://gitpod.io/workspaces) workspaces, right in your VS Code status bar.
 
 ## Features
 - 📊 Live CPU and memory usage monitoring
@@ -8,6 +8,7 @@ Real-time system resource monitoring for your [Gitpod](https://www.gitpod.io/) w
 - 🚀 Zero configuration required
 
 ## Usage
+
 Once installed, Gitpod Monitor automatically displays workspace resource metrics in your VS Code status bar:
 - CPU usage percentage
 - Memory usage percentage
@@ -17,7 +18,8 @@ The status bar updates in real-time, giving you instant visibility into your wor
 _Note: you can always compliment this with the `gp top` command to get workspace resource utilization and totals_
 
 ## Requirements
-- Active [Gitpod](https://www.gitpod.io/) workspace
+- Active [Gitpod Classic](https://gitpod.io/workspaces) workspace
 
 ## Extension Settings
-This extension works out of the box with no configuration needed
+
+This extension works out of the box with no configuration needed.

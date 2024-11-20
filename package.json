@@ -2,7 +2,7 @@
 	"publisher": "akosyakov",
 	"name": "gitpod-monitor",
 	"displayName": "Gitpod Monitor",
-	"description": "Resource monitor for Gitpod workspaces",
+	"description": "Resource monitor for Gitpod Classic workspaces",
 	"license": "MIT",
 	"icon": "resources/gitpod.png",
 	"repository": {
