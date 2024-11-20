@@ -1,9 +1,10 @@
 {
 	"publisher": "akosyakov",
 	"name": "gitpod-monitor",
-	"displayName": "gitpod-monitor",
+	"displayName": "Gitpod Monitor",
 	"description": "Resource monitor for Gitpod workspaces",
 	"license": "MIT",
+	"icon": "resources/gitpod.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/akosyakov/gitpod-monitor.git "
